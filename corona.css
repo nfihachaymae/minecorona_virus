@@ -1,38 +1,107 @@
-*{
-    background-color:rgb(2,10,59);
-    margin:4 auto;
-    border:0px;
+body{
+    margin: 0;
+    padding: 0;
 }
-header{
-    padding: 3px;
+.hedear{
+    width: 100%;
+    height: 500px;
+    background-image:url(backround.jpg);
+    background-position: center;
+    color: white;
+    
 }
-header nav{
-    display: inline;
 
-}
+
+
 a{
+    font-size: 18px;
     text-decoration: none;
     color: white;
-    margin: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    display: inline;
-}
-a:hover{
-    color: rgb(21,169,114);
-}
-a{
+    margin: 8px;
     float: right;
 }
-.img{
-    margin-left: 68%;
+a:hover{
+    color: rgb(47, 168, 97);
+}
+.position{
+    padding-top: 20px;
+    margin-left: 70px;
+}
+.text{
+    
+    width: 39%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 120px;
+}
+p:nth-child(1):hover{
+    color: rgb(77, 209, 132);
+}
+#soy{
+    width: 120px;
+    height: 38px;
+    border-radius: 18px;
+    background-color: rgb(100, 208, 192);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 0px;
+}
+#IMG1{
+    width: 450px;
+    float: right;
+    margin-top: -24%;
+    position:absolute;
+    margin-left: 63%;
     display: inline;
-
 }
-.span1{
-    font-family: Arial, Helvetica, sans-serif;
-
+main{
+    
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
 }
-p#n{
-    position: absolute;
-    margin-top: 3vh;
+main p{
+    color: rgb(109, 106, 106);
+    
+}
+.thev{
+    margin-top: 5%;
+}
+.thev1{
+    width: 380px;
+    display: inline-block;
+    margin: 30px;
+}
+.coronaton{
+    margin-left: 10%;
+    margin-top: 8%;
+}
+.lol{
+    display: inline-block;
+    
+}
+.virusaat{
+    text-align:left;
+    width: 40%;
+}
+#IMG2{
+    margin-left: 40%;
+    margin-top: -400px;
+}
+.hey{
+    background-color: #0E2342;
+}
+.why{
+    color: white;
+}
+.HELLO{
+    height: 350px;
+    width: 350px;
+    display: inline-block;
+    margin: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+.top{
+    margin-top: 10%;
 }
