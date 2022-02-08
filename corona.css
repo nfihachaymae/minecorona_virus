@@ -10,9 +10,6 @@ body{
     color: white;
     
 }
-
-
-
 a{
     font-size: 18px;
     text-decoration: none;
@@ -57,8 +54,6 @@ main{
     
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
-    
 }
 main p{
     color: rgb(109, 106, 106);
